@@ -1,0 +1,1 @@
+console.log("POST 요청 방식 연습");
